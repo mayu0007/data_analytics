@@ -1,1 +1,2 @@
 Git command line testing in progress. 
+Git is a distributed version control system.
